@@ -1,4 +1,4 @@
-import { processVisit } from './loyalty';
+import { processVisit } from './loyalty.ts';
 
 async function runTest() {
     const testPhone = "555-123-4567";
